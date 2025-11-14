@@ -1,6 +1,6 @@
 #profile-update-interval: 12
 #support-url: https://t.me/bpswl_bot
-#profile-title: t.me/BPSWL / @BPSWL
+#profile-title: t.me/BPSWL
 vless://402336f0-6589-456d-864f-6c7c8b2fb0b0@95.163.249.115:8449?security=reality&sni=www.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20WL%20WORKING
 vless://962ceb25-7450-4553-8d7a-c85b8d4f0f74@217.16.24.170:8443?security=reality&sni=sun6-21.userapi.com&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%AB%F0%9F%87%AE+WL%20test
 vless://8478d3a9-e1d8-4bda-952b-0f0701928a2b@217.16.24.170:443?security=reality&sni=sun6-21.userapi.com&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20WL%20
